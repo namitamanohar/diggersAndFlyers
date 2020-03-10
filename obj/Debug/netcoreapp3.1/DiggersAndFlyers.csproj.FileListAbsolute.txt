@@ -1,0 +1,11 @@
+C:\Users\manoh\workspace\csharp\DiggersAndFlyers\obj\Debug\netcoreapp3.1\DiggersAndFlyers.csprojAssemblyReference.cache
+C:\Users\manoh\workspace\csharp\DiggersAndFlyers\obj\Debug\netcoreapp3.1\DiggersAndFlyers.AssemblyInfoInputs.cache
+C:\Users\manoh\workspace\csharp\DiggersAndFlyers\obj\Debug\netcoreapp3.1\DiggersAndFlyers.AssemblyInfo.cs
+C:\Users\manoh\workspace\csharp\DiggersAndFlyers\bin\Debug\netcoreapp3.1\DiggersAndFlyers.exe
+C:\Users\manoh\workspace\csharp\DiggersAndFlyers\bin\Debug\netcoreapp3.1\DiggersAndFlyers.deps.json
+C:\Users\manoh\workspace\csharp\DiggersAndFlyers\bin\Debug\netcoreapp3.1\DiggersAndFlyers.runtimeconfig.json
+C:\Users\manoh\workspace\csharp\DiggersAndFlyers\bin\Debug\netcoreapp3.1\DiggersAndFlyers.runtimeconfig.dev.json
+C:\Users\manoh\workspace\csharp\DiggersAndFlyers\bin\Debug\netcoreapp3.1\DiggersAndFlyers.dll
+C:\Users\manoh\workspace\csharp\DiggersAndFlyers\bin\Debug\netcoreapp3.1\DiggersAndFlyers.pdb
+C:\Users\manoh\workspace\csharp\DiggersAndFlyers\obj\Debug\netcoreapp3.1\DiggersAndFlyers.dll
+C:\Users\manoh\workspace\csharp\DiggersAndFlyers\obj\Debug\netcoreapp3.1\DiggersAndFlyers.pdb
